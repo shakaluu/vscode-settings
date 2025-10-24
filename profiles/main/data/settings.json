@@ -1,0 +1,16 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "vscode-icons",
+  "syncSettings.crons": {},
+  "syncSettings.resources": [
+    "prettier",
+    "crons",
+    "extensions",
+    "keybindings",
+    "settings",
+    "snippets",
+    "uiState"
+  ]
+}

@@ -1,0 +1,14 @@
+disabled: []
+enabled:
+  - id: antfu.slidev
+    uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: GitHub.github-vscode-theme
+    uuid: 7328a705-91fc-49e6-8293-da6f112e482d
+  - id: vscode-icons-team.vscode-icons
+    uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: zhuangtongfa.material-theme
+    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
