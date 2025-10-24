@@ -3,7 +3,9 @@
   "security.workspace.trust.untrustedFiles": "open",
   "editor.formatOnSave": true,
   "workbench.iconTheme": "vscode-icons",
-  "syncSettings.crons": {},
+  "syncSettings.crons": {
+    "upload": "on"
+  },
   "syncSettings.resources": [
     "prettier",
     "crons",
@@ -12,5 +14,6 @@
     "settings",
     "snippets",
     "uiState"
-  ]
+  ],
+  "workbench.colorTheme": "GitHub Dark"
 }
