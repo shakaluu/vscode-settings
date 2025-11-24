@@ -15,5 +15,12 @@
     "snippets",
     "uiState"
   ],
-  "workbench.colorTheme": "GitHub Dark"
+  "workbench.colorTheme": "GitHub Dark",
+  "cSpell.userWords": [
+    "beredt",
+    "Dynatrace",
+    "Kubecon",
+    "Michl",
+    "tofuschnitzel"
+  ]
 }

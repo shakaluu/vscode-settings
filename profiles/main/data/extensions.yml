@@ -4,10 +4,24 @@ enabled:
     uuid: 1396f3b6-119e-4436-a767-30a73c5a4a4f
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
+  - id: GitHub.copilot-chat
+    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
+  - id: github.vscode-github-actions
+    uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
+  - id: shd101wyy.markdown-preview-enhanced
+    uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: Tim-Koehler.helm-intellisense
+    uuid: 1f8a7b1b-d91a-45aa-a69c-10482b94044a
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: YuTengjing.vscode-archive
+    uuid: 29dad39d-46c6-45af-870f-7c9da1a1aace
   - id: zhuangtongfa.material-theme
     uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks
